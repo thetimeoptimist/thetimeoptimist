@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Time Optimist</title>
-    <link>https://www.thetimeoptimist.com/index.xml</link>
+    <link>http://www.thetimeoptimist.com/index.xml</link>
     <description>Recent content on The Time Optimist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 16 Feb 2017 14:39:05 +0000</lastBuildDate>
-    <atom:link href="https://www.thetimeoptimist.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.thetimeoptimist.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hallo, Amsterdam!</title>
-      <link>https://www.thetimeoptimist.com/post/amsterdam/</link>
+      <link>http://www.thetimeoptimist.com/post/amsterdam/</link>
       <pubDate>Thu, 16 Feb 2017 14:39:05 +0000</pubDate>
       
-      <guid>https://www.thetimeoptimist.com/post/amsterdam/</guid>
+      <guid>http://www.thetimeoptimist.com/post/amsterdam/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://farm1.staticflickr.com/504/32706912382_781ddb3847_o_d.jpg&#34; alt=&#34;alt text&#34; title=&#34;Endless canals&#34; /&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Hello, World!</title>
-      <link>https://www.thetimeoptimist.com/post/intro/</link>
+      <link>http://www.thetimeoptimist.com/post/intro/</link>
       <pubDate>Thu, 16 Feb 2017 14:35:05 +0000</pubDate>
       
-      <guid>https://www.thetimeoptimist.com/post/intro/</guid>
+      <guid>http://www.thetimeoptimist.com/post/intro/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm1.staticflickr.com/417/32893978826_6f7b212539_o_d.jpg&#34; alt=&#34;alt text&#34; title=&#34;Face behind the blog&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m Emma, a programmer/rookie drummer/rollercoaster junkie &lt;del&gt;and now occasional food/travel blogger&lt;/del&gt; hailing from London.&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://www.thetimeoptimist.com/contact/</link>
+      <link>http://www.thetimeoptimist.com/contact/</link>
       <pubDate>Mon, 23 Jan 2017 20:11:25 +0000</pubDate>
       
-      <guid>https://www.thetimeoptimist.com/contact/</guid>
+      <guid>http://www.thetimeoptimist.com/contact/</guid>
       <description>&lt;p&gt;Message me at emma@thetimeoptimist.com.&lt;/p&gt;
 </description>
     </item>
