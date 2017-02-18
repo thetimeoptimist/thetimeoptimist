@@ -1,4 +1,4 @@
-/*function context_menu(e) {
+function context_menu(e) {
     if (!e) var e = window.event;
     var eTarget = (window.event) ? e.srcElement : e.target;
  
@@ -7,4 +7,4 @@
     }
 }
 
-document.oncontextmenu = context_menu;*/
+document.oncontextmenu = context_menu;
