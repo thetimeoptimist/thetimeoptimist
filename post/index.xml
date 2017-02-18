@@ -83,15 +83,5 @@
 </description>
     </item>
     
-    <item>
-      <title>test</title>
-      <link>http://www.thetimeoptimist.com/post/test/</link>
-      <pubDate>Sat, 18 Feb 2017 14:02:05 +0000</pubDate>
-      
-      <guid>http://www.thetimeoptimist.com/post/test/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
