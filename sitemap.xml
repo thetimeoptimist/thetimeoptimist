@@ -27,12 +27,6 @@
   </url>
   
   <url>
-    <loc>http://www.thetimeoptimist.com/categories/food/</loc>
-    <lastmod>2017-02-19T14:39:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.thetimeoptimist.com/tags/gallery/</loc>
     <lastmod>2017-02-19T14:39:05+00:00</lastmod>
     <priority>0</priority>
@@ -58,6 +52,12 @@
   
   <url>
     <loc>http://www.thetimeoptimist.com/post/</loc>
+    <lastmod>2017-02-19T14:39:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.thetimeoptimist.com/tags/street-food/</loc>
     <lastmod>2017-02-19T14:39:05+00:00</lastmod>
     <priority>0</priority>
   </url>
