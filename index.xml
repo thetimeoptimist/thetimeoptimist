@@ -84,12 +84,30 @@
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Leave A Message</title>
       <link>http://www.thetimeoptimist.com/contact/</link>
-      <pubDate>Mon, 23 Jan 2017 20:11:25 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.thetimeoptimist.com/contact/</guid>
-      <description>&lt;p&gt;Message me at emma@thetimeoptimist.com.&lt;/p&gt;
+      <description>&lt;form method=&#34;POST&#34; action=&#34;http://formspree.io/emma@thetimeoptimist.com&#34;&gt;
+    &lt;input type=&#34;text&#34; name=&#34;_gotcha&#34; style=&#34;display:none&#34; /&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://localhost:1313/message-sent&#34; /&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_subject&#34; value=&#34;Message for The Time Optimist&#34; /&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_format&#34; value=&#34;plain&#34; /&gt;
+    &lt;input required type=&#34;email&#34; name=&#34;_replyto&#34; placeholder=&#34;Your email&#34;&gt;
+    &lt;textarea required name=&#34;message&#34; placeholder=&#34;Your message&#34;&gt;&lt;/textarea&gt;
+    &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Message Sent!</title>
+      <link>http://www.thetimeoptimist.com/message-sent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.thetimeoptimist.com/message-sent/</guid>
+      <description>&lt;p&gt;&lt;a class=&#34;btn home&#34; href=&#34;www.thetimeoptimist.com&#34;&gt;Return to blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

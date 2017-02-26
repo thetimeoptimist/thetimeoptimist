@@ -1,9 +1,9 @@
 <!doctype html>
 <html class="no-js">
     <head>
-        <meta charset="utf-8">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Contact &middot; The Time Optimist</title>
+        <title>Leave A Message &middot; The Time Optimist</title>
         <meta name="author" content ="Emma L.">
         <meta name="description" content="Travel blog of a twenty-something Londoner.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,12 +31,10 @@
     <main class="content">
         <article class="post">
             
-<h1><a href="http://www.thetimeoptimist.com/contact/" title="Contact">Contact</a></h1>
-
+<h1><a href="http://www.thetimeoptimist.com/contact/" title="Leave A Message">Leave A Message</a></h1>
 
 <header class="post-info">
-
-    <span class="post-meta"><time datetime="2017-01-23">2017.01.23</time>
+    <span class="post-meta">
 
     
 
@@ -48,14 +46,22 @@
 </header>
 
 
-            <p>Message me at emma@thetimeoptimist.com.</p>
+            <form method="POST" action="http://formspree.io/emma@thetimeoptimist.com">
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="http://localhost:1313/message-sent" />
+    <input type="hidden" name="_subject" value="Message for The Time Optimist" />
+    <input type="hidden" name="_format" value="plain" />
+    <input required type="email" name="_replyto" placeholder="Your email">
+    <textarea required name="message" placeholder="Your message"></textarea>
+    <button type="submit">Send</button>
+</form>
 
             <ul class="share-buttons">
     <li>
         <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.thetimeoptimist.com%2fcontact%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share"></a>
     </li>
     <li>
-        <a class="icon-twitter" href="https://twitter.com/share?text=Contact&amp;url=http%3a%2f%2fwww.thetimeoptimist.com%2fcontact%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share"></a>
+        <a class="icon-twitter" href="https://twitter.com/share?text=Leave%20A%20Message&amp;url=http%3a%2f%2fwww.thetimeoptimist.com%2fcontact%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share"></a>
     </li>
     <li>
         <a class="icon-gplus" href="https://plus.google.com/share?url=http%3a%2f%2fwww.thetimeoptimist.com%2fcontact%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share"></a>
@@ -68,7 +74,7 @@
 <script type="text/javascript">
     var disqus_shortname = 'thetimeoptimist';
     var disqus_identifier = 'http:\/\/www.thetimeoptimist.com\/contact\/';
-    var disqus_title = 'Contact';
+    var disqus_title = 'Leave A Message';
     var disqus_url = 'http:\/\/www.thetimeoptimist.com\/contact\/';
 
     (function() {
@@ -109,7 +115,7 @@
   <nav class="menu">
 	<ul>
 		<li><a href="/post/intro">About</a></li>
-
+    <li><a href="/contact">Contact</a></li>
       
       <li class="icon-map">
       <br>
