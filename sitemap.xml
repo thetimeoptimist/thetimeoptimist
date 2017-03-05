@@ -118,13 +118,13 @@
   </url>
   
   <url>
-    <loc>http://www.thetimeoptimist.com/tags/</loc>
+    <loc>http://www.thetimeoptimist.com/</loc>
+    <lastmod>2017-03-05T15:06:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.thetimeoptimist.com/</loc>
-    <lastmod>2017-03-05T15:06:26+00:00</lastmod>
+    <loc>http://www.thetimeoptimist.com/tags/</loc>
     <priority>0</priority>
   </url>
   
